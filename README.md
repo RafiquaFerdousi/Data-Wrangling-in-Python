@@ -1,6 +1,6 @@
-###### Data-Wrangling-in-Python
+#Data-Wrangling-in-Python
 
-###### Common Data Types:
+#Common Data Types:
 
 ## Numbers 
 ## Strings
@@ -10,7 +10,7 @@
 ## Sets
 ## Dictionaries
 
-###### Statements:
+# Statements:
 
 ## If Statement
 ## While Statement
