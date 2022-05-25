@@ -1,10 +1,8 @@
 ## Data-Wrangling-in-Python
 
-### Common Data Types:
-
+#### Common Data Types:
 #### Numbers; Strings; Lists; Bytes objects and Bytearrays; Tuples; Sets; Dictionaries
-
-### Statements: If Statement; While Statement; For Statement; Try Statement; With Statement; List Comprehension; Other Statements
+#### Statements: If Statement; While Statement; For Statement; Try Statement; With Statement; List Comprehension; Other Statements
 
 ### 1. Map Function
 Python has an inbuilt function called map() which permits us to process all the elements present in an iterable without explicitly using a looping construct. When used, it returns a map object which in turn is an iterator. This map object is the result obtained by applying the specified function to every item present in the iterable.
