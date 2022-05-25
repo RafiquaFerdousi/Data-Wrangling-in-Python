@@ -14,7 +14,7 @@ The map() function takes two arguments:
 The first argument is a function that is to be applied to each and every element present in the iterable.
 The second argument is the iterable itself on which the function is to be mapped.
 
-###2. itertools
+### 2. itertools
 Python has an amazing standard library called itertools which provides a number of functions that help in writing clean, fast, and memory-efficient code due to lazy evaluation. It is a Python module that implements various iterator building blocks and together they form ‘iterator algebra’ which makes it possible to efficiently build tools in the Python language. The functions in itertools work on iterators itself which in turn return more complex iterators. Some example of functions present in itertools are: count(), cycle(), repeat(), accumulate(), product(), permutations(), combinations() etc. each taking their own set of arguments and operating upon them. The result is generated a lot more faster as compared to the results achieved when using conventional code.
 
 ### 3. Lambda Function
